@@ -1,4 +1,4 @@
-#Furniking 
+Furniking 
 
 Мебельный интернет-магазин
 
